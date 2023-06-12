@@ -1,0 +1,14 @@
+C:\Users\Norman Menes\source\repos\Programowanie obiektowe\[7]zajęcia\bin\Debug\netcoreapp3.1\[7]zajęcia.exe
+C:\Users\Norman Menes\source\repos\Programowanie obiektowe\[7]zajęcia\bin\Debug\netcoreapp3.1\[7]zajęcia.deps.json
+C:\Users\Norman Menes\source\repos\Programowanie obiektowe\[7]zajęcia\bin\Debug\netcoreapp3.1\[7]zajęcia.runtimeconfig.json
+C:\Users\Norman Menes\source\repos\Programowanie obiektowe\[7]zajęcia\bin\Debug\netcoreapp3.1\[7]zajęcia.runtimeconfig.dev.json
+C:\Users\Norman Menes\source\repos\Programowanie obiektowe\[7]zajęcia\bin\Debug\netcoreapp3.1\[7]zajęcia.dll
+C:\Users\Norman Menes\source\repos\Programowanie obiektowe\[7]zajęcia\bin\Debug\netcoreapp3.1\[7]zajęcia.pdb
+C:\Users\Norman Menes\source\repos\Programowanie obiektowe\[7]zajęcia\obj\Debug\netcoreapp3.1\[7]zajęcia.csproj.AssemblyReference.cache
+C:\Users\Norman Menes\source\repos\Programowanie obiektowe\[7]zajęcia\obj\Debug\netcoreapp3.1\[7]zajęcia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Norman Menes\source\repos\Programowanie obiektowe\[7]zajęcia\obj\Debug\netcoreapp3.1\[7]zajęcia.AssemblyInfoInputs.cache
+C:\Users\Norman Menes\source\repos\Programowanie obiektowe\[7]zajęcia\obj\Debug\netcoreapp3.1\[7]zajęcia.AssemblyInfo.cs
+C:\Users\Norman Menes\source\repos\Programowanie obiektowe\[7]zajęcia\obj\Debug\netcoreapp3.1\[7]zajęcia.csproj.CoreCompileInputs.cache
+C:\Users\Norman Menes\source\repos\Programowanie obiektowe\[7]zajęcia\obj\Debug\netcoreapp3.1\[7]zajęcia.dll
+C:\Users\Norman Menes\source\repos\Programowanie obiektowe\[7]zajęcia\obj\Debug\netcoreapp3.1\[7]zajęcia.pdb
+C:\Users\Norman Menes\source\repos\Programowanie obiektowe\[7]zajęcia\obj\Debug\netcoreapp3.1\[7]zajęcia.genruntimeconfig.cache
